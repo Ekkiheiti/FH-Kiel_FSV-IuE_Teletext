@@ -1,0 +1,23 @@
+ [38;2;255;255;255m[48;2;0;0;0m
+ _____    _      _            _     _____ ______     __  ___      _____ 
+|_   _|__| | ___| |_ _____  _| |_  |  ___/ ___\ \   / / |_ _|   _| ____|
+  | |/ _ \ |/ _ \ __/ _ \ \/ / __| | |_  \___ \\ \ / /   | | | | |  _|  
+  | |  __/ |  __/ ||  __/>  <| |_  |  _|  ___) |\ V /    | | |_| | |___ 
+  |_|\___|_|\___|\__\___/_/\_\\__| |_|   |____/  \_/    |___\__,_|_____|
+                                                                        
+
+                 Hallo liebe Fachschaftsmenschen!
+
+        Dies hier ist der Abfahrts- und Mensaplanmonitor
+           der Fachschaft Informatik und Elektrotechnik.
+
+     Hier könnt ihr die Busabfahrten an der Hst. Grenzstraße,
+         die Fährabfahrten am Anleger Dietrichsdorf und
+       die Anzahl der verfügbaren Sprottenflottenräder sowie
+             den heutigen Speiseplan der Mensa sehen.
+
+
+                      [48;2;255;0;0m  A  [48;2;0;0;0m  Weiter zu den Busabfahrten     (Seite 101) -->
+                      [48;2;0;255;0m  B  [48;2;0;0;0m  Sprottenflottenstation         (Seite 200) -->
+                      [48;2;255;255;0m  C  [48;2;0;0;0m  Speiseplan der Schwentinemensa (Seite 300) -->
+                      [48;2;0;0;255m  D  [48;2;0;0;0m  Weitere Seiten                 (Seite 400) -->

@@ -1,0 +1,1 @@
+/home/pi/teletext/modules/mensa/mensa.sh

@@ -1,0 +1,22 @@
+[38;2;0;0;0m[48;2;255;255;255m[2K             RFC 9225 (Auszug)
+[38;2;255;255;255m[48;2;0;0;0m[2K
+[2K  Best Current Practises
+[2K  =========================
+[2K  1. Authors MUST NOT implement bugs.
+[2K  2. If bugs are introduced in code, they MUST be clearly documented.
+[2K  3. When implementing specifications that are broken by design,
+[2K     it is RECOMMENDED to aggregate multiple smaller bugs into one larger bug.
+[2K     This will be easier to document:
+[2K       rather than having a lot of hard-to-track inconsequential bugs,
+[2K       there will be only a few easy-to-recognise significant bugs
+[2K  4. The aphorism "It's not a bug, it's a feature" is considered rude.
+[2K  5. Assume all external input is the result of (a series of) bugs.
+[2K     (Especially in machine-to-machine applications
+[2K      such as implementations of network protocols.)
+[2K  6. In fact, assume all internal inputs also are the result of bugs.
+[2K
+[2K  Security Considerations
+[2K  ==========================
+[2K  As it is assumed that there is an even distribution of bugs through
+[2K  all software, it is safe to consider any piece of software to be bug
+[2K  free once a certain number of bugs have been found.

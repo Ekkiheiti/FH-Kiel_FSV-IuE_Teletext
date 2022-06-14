@@ -1,0 +1,225 @@
+192.168.100.47
+14:38
+0
+9
+S;11;Pillauer Straße 14:51;Fachhochschule 14:46 • Hermannstr. 14:49;14:46;1
+S;11;Wik Kanal 15:30;Seefischmarkt 14:51 • Hbf 15:09 • Dreiecksplatz 15:17 • Ansgarkirche 15:19 • Elendsredder 15:26;14:46;0
+S;60S;Botanischer Garten 15:25;Seefischmarkt 14:55 • Hbf 15:07 • Dreiecksplatz 15:15 • Ansgarkirche 15:17 • Universität 15:20;14:51;0
+S;11;Pillauer Straße 15:01;Fachhochschule 14:56 • Hermannstr. 14:59;14:56;1
+S;11;Wik Kanal 15:40;Seefischmarkt 15:01 • Hbf 15:19 • Dreiecksplatz 15:27 • Ansgarkirche 15:29 • Elendsredder 15:36;14:56;0
+F;F2;Reventloubrücke 15:21 -> F1 Bahnhof ab 15:32;Wellingdorf 15:09;15:03;-1
+S;11;Pillauer Straße 15:11;Fachhochschule 15:06 • Hermannstr. 15:09;15:08;3
+S;11;Wik Kanal 15:50;Seefischmarkt 15:11 • Hbf 15:29 • Dreiecksplatz 15:37 • Ansgarkirche 15:39 • Elendsredder 15:46;15:06;0
+S;60S;Botanischer Garten 15:40;Seefischmarkt 15:10 • Hbf 15:22 • Dreiecksplatz 15:30 • Ansgarkirche 15:32 • Universität 15:35;15:06;0
+S;11;Wik Kanal 15:57;Seefischmarkt 15:18 • Hbf 15:36 • Dreiecksplatz 15:44 • Ansgarkirche 15:46 • Elendsredder 15:53;15:13;0
+S;11;Pillauer Straße 15:21;Fachhochschule 15:16 • Hermannstr. 15:19;15:15;0
+F;F2;Reventloubrücke 15:36;Wellingdorf 15:24;15:18;-1
+S;11;Wik Kanal 16:05;Seefischmarkt 15:26 • Hbf 15:44 • Dreiecksplatz 15:52 • Ansgarkirche 15:54 • Elendsredder 16:01;15:21;-1
+S;60S;Botanischer Garten 15:55;Seefischmarkt 15:25 • Hbf 15:37 • Dreiecksplatz 15:45 • Ansgarkirche 15:47 • Universität 15:50;15:21;0
+S;11;Pillauer Straße 15:31;Fachhochschule 15:26 • Hermannstr. 15:29;15:25;0
+S;11;Wik Kanal 16:12;Seefischmarkt 15:33 • Hbf 15:51 • Dreiecksplatz 15:59 • Ansgarkirche 16:01 • Elendsredder 16:08;15:28;0
+F;F2;Reventloubrücke 15:51 -> F1 Laboe ab 16:15;Wellingdorf 15:39;15:33;-1
+S;11;Pillauer Straße 15:41;Fachhochschule 15:36 • Hermannstr. 15:39;15:35;0
+S;11;Wik Kanal 16:20;Seefischmarkt 15:41 • Hbf 15:59 • Dreiecksplatz 16:07 • Ansgarkirche 16:09 • Elendsredder 16:16;15:36;0
+S;60S;Botanischer Garten 16:10;Seefischmarkt 15:40 • Hbf 15:52 • Dreiecksplatz 16:00 • Ansgarkirche 16:02 • Universität 16:05;15:36;0
+S;11;Pillauer Straße 15:49;Fachhochschule 15:44 • Hermannstr. 15:47;15:43;-1
+S;11;Wik Kanal 16:27;Seefischmarkt 15:48 • Hbf 16:06 • Dreiecksplatz 16:14 • Ansgarkirche 16:16 • Elendsredder 16:23;15:43;0
+S;11;Pillauer Straße 15:51;Fachhochschule 15:46 • Hermannstr. 15:49;15:45;0
+F;F2;Reventloubrücke 16:06 -> F1 Laboe ab 16:15;Wellingdorf 15:54;15:48;-1
+S;11;Wik Kanal 16:35;Seefischmarkt 15:56 • Hbf 16:14 • Dreiecksplatz 16:22 • Ansgarkirche 16:24 • Elendsredder 16:31;15:51;-1
+S;60S;Botanischer Garten 16:25;Seefischmarkt 15:55 • Hbf 16:07 • Dreiecksplatz 16:15 • Ansgarkirche 16:17 • Universität 16:20;15:51;0
+S;11;Pillauer Straße 15:58;Fachhochschule 15:53 • Hermannstr. 15:56;15:52;0
+S;11;Wik Kanal 16:42;Seefischmarkt 16:03 • Hbf 16:21 • Dreiecksplatz 16:29 • Ansgarkirche 16:31 • Elendsredder 16:38;15:58;0
+S;11;Pillauer Straße 16:06;Fachhochschule 16:01 • Hermannstr. 16:04;16:00;-1
+F;F2;Reventloubrücke 16:21;Wellingdorf 16:09;16:03;-1
+S;11;Wik Kanal 16:50;Seefischmarkt 16:11 • Hbf 16:29 • Dreiecksplatz 16:37 • Ansgarkirche 16:39 • Elendsredder 16:46;16:06;0
+S;60S;Botanischer Garten 16:40;Seefischmarkt 16:10 • Hbf 16:22 • Dreiecksplatz 16:30 • Ansgarkirche 16:32 • Universität 16:35;16:06;0
+S;11;Pillauer Straße 16:13;Fachhochschule 16:08 • Hermannstr. 16:11;16:07;0
+S;11;Wik Kanal 16:57;Seefischmarkt 16:18 • Hbf 16:36 • Dreiecksplatz 16:44 • Ansgarkirche 16:46 • Elendsredder 16:53;16:13;0
+S;11;Pillauer Straße 16:21;Fachhochschule 16:16 • Hermannstr. 16:19;16:15;0
+F;F2;Reventloubrücke 16:36;Wellingdorf 16:24;16:18;-1
+S;11;Wik Kanal 17:05;Seefischmarkt 16:26 • Hbf 16:44 • Dreiecksplatz 16:52 • Ansgarkirche 16:54 • Elendsredder 17:01;16:21;-1
+S;60S;Botanischer Garten 16:55;Seefischmarkt 16:25 • Hbf 16:37 • Dreiecksplatz 16:45 • Ansgarkirche 16:47 • Universität 16:50;16:21;0
+S;11;Pillauer Straße 16:28;Fachhochschule 16:23 • Hermannstr. 16:26;16:22;0
+S;11;Wik Kanal 17:12;Seefischmarkt 16:33 • Hbf 16:51 • Dreiecksplatz 16:59 • Ansgarkirche 17:01 • Elendsredder 17:08;16:28;0
+S;15;Heikendorf Am Heidberg 16:47;Fachhochschule 16:29 • Hermannstr. 16:32 • Mönkeberg Gänsekrug 16:34 • Heikendorf Rathaus 16:40;16:28;-1
+S;11;Pillauer Straße 16:36;Fachhochschule 16:31 • Hermannstr. 16:34;16:30;-1
+S;11;Wik Kanal 17:20;Seefischmarkt 16:41 • Hbf 16:59 • Dreiecksplatz 17:07 • Ansgarkirche 17:09 • Elendsredder 17:16;16:36;0
+S;60S;Botanischer Garten 17:10;Seefischmarkt 16:40 • Hbf 16:52 • Dreiecksplatz 17:00 • Ansgarkirche 17:02 • Universität 17:05;16:36;0
+S;11;Pillauer Straße 16:43;Fachhochschule 16:38 • Hermannstr. 16:41;16:37;0
+S;11;Wik Kanal 17:27;Seefischmarkt 16:48 • Hbf 17:06 • Dreiecksplatz 17:14 • Ansgarkirche 17:16 • Elendsredder 17:23;16:43;0
+S;11;Pillauer Straße 16:51;Fachhochschule 16:46 • Hermannstr. 16:49;16:45;0
+F;F2;Reventloubrücke 17:06 -> F1 Laboe ab 17:15;Wellingdorf 16:54;16:48;-1
+S;11;Wik Kanal 17:35;Seefischmarkt 16:56 • Hbf 17:14 • Dreiecksplatz 17:22 • Ansgarkirche 17:24 • Elendsredder 17:31;16:51;-1
+S;60S;Botanischer Garten 17:25;Seefischmarkt 16:55 • Hbf 17:07 • Dreiecksplatz 17:15 • Ansgarkirche 17:17 • Universität 17:20;16:51;-1
+S;11;Pillauer Straße 16:58;Fachhochschule 16:53 • Hermannstr. 16:56;16:52;0
+S;11;Wik Kanal 17:42;Seefischmarkt 17:03 • Hbf 17:21 • Dreiecksplatz 17:29 • Ansgarkirche 17:31 • Elendsredder 17:38;16:58;-1
+S;11;Pillauer Straße 17:06;Fachhochschule 17:01 • Hermannstr. 17:04;17:00;0
+F;F2;Reventloubrücke 17:21 -> F1 Bahnhof ab 17:21;Wellingdorf 17:09;17:03;-1
+S;11;Wik Kanal 17:50;Seefischmarkt 17:11 • Hbf 17:29 • Dreiecksplatz 17:37 • Ansgarkirche 17:39 • Elendsredder 17:46;17:06;-1
+S;60S;Botanischer Garten 17:40;Seefischmarkt 17:10 • Hbf 17:22 • Dreiecksplatz 17:30 • Ansgarkirche 17:32 • Universität 17:35;17:06;-1
+S;11;Pillauer Straße 17:13;Fachhochschule 17:08 • Hermannstr. 17:11;17:07;-1
+S;11;Wik Kanal 17:57;Seefischmarkt 17:18 • Hbf 17:36 • Dreiecksplatz 17:44 • Ansgarkirche 17:46 • Elendsredder 17:53;17:13;-1
+S;11;Pillauer Straße 17:21;Fachhochschule 17:16 • Hermannstr. 17:19;17:15;0
+S;11;Wik Kanal 18:05;Seefischmarkt 17:26 • Hbf 17:44 • Dreiecksplatz 17:52 • Ansgarkirche 17:54 • Elendsredder 18:01;17:21;-1
+S;60S;Botanischer Garten 17:55;Seefischmarkt 17:25 • Hbf 17:37 • Dreiecksplatz 17:45 • Ansgarkirche 17:47 • Universität 17:50;17:21;-1
+S;11;Pillauer Straße 17:28;Fachhochschule 17:23 • Hermannstr. 17:26;17:22;-1
+S;11;Wik Kanal 18:12;Seefischmarkt 17:33 • Hbf 17:51 • Dreiecksplatz 17:59 • Ansgarkirche 18:01 • Elendsredder 18:08;17:28;-1
+S;11;Pillauer Straße 17:36;Fachhochschule 17:31 • Hermannstr. 17:34;17:30;-1
+F;F2;Reventloubrücke 17:51 -> F1 Bahnhof ab 18:09;Wellingdorf 17:39;17:33;-1
+S;11;Wik Kanal 18:20;Seefischmarkt 17:41 • Hbf 17:59 • Dreiecksplatz 18:07 • Ansgarkirche 18:09 • Elendsredder 18:16;17:36;-1
+S;60S;Botanischer Garten 18:10;Seefischmarkt 17:40 • Hbf 17:52 • Dreiecksplatz 18:00 • Ansgarkirche 18:02 • Universität 18:05;17:36;-1
+S;11;Pillauer Straße 17:43;Fachhochschule 17:38 • Hermannstr. 17:41;17:37;-1
+S;11;Wik Kanal 18:27;Seefischmarkt 17:48 • Hbf 18:06 • Dreiecksplatz 18:14 • Ansgarkirche 18:16 • Elendsredder 18:23;17:43;-1
+S;11;Pillauer Straße 17:51;Fachhochschule 17:46 • Hermannstr. 17:49;17:45;-1
+S;11;Wik Kanal 18:35;Seefischmarkt 17:56 • Hbf 18:14 • Dreiecksplatz 18:22 • Ansgarkirche 18:24 • Elendsredder 18:31;17:51;-1
+S;60S;Botanischer Garten 18:25;Seefischmarkt 17:55 • Hbf 18:07 • Dreiecksplatz 18:15 • Ansgarkirche 18:17 • Universität 18:20;17:51;-1
+S;11;Pillauer Straße 17:58;Fachhochschule 17:53 • Hermannstr. 17:56;17:52;-1
+S;11;Wik Kanal 18:42;Seefischmarkt 18:03 • Hbf 18:21 • Dreiecksplatz 18:29 • Ansgarkirche 18:31 • Elendsredder 18:38;17:58;-1
+S;11;Pillauer Straße 18:06;Fachhochschule 18:01 • Hermannstr. 18:04;18:00;-1
+F;F2;Reventloubrücke 18:21 -> F1 Laboe ab 18:50;Wellingdorf 18:09;18:03;-1
+S;11;Wik Kanal 18:50;Seefischmarkt 18:11 • Hbf 18:29 • Dreiecksplatz 18:37 • Ansgarkirche 18:39 • Elendsredder 18:46;18:06;-1
+S;60S;Botanischer Garten 18:40;Seefischmarkt 18:10 • Hbf 18:22 • Dreiecksplatz 18:30 • Ansgarkirche 18:32 • Universität 18:35;18:06;-1
+S;11;Pillauer Straße 18:13;Fachhochschule 18:08 • Hermannstr. 18:11;18:07;-1
+S;11;Wik Kanal 18:57;Seefischmarkt 18:18 • Hbf 18:36 • Dreiecksplatz 18:44 • Ansgarkirche 18:46 • Elendsredder 18:53;18:13;-1
+S;11;Pillauer Straße 18:21;Fachhochschule 18:16 • Hermannstr. 18:19;18:15;-1
+S;11;Wik Kanal 19:05;Seefischmarkt 18:26 • Hbf 18:44 • Dreiecksplatz 18:52 • Ansgarkirche 18:54 • Elendsredder 19:01;18:21;-1
+S;60S;Botanischer Garten 18:55;Seefischmarkt 18:25 • Hbf 18:37 • Dreiecksplatz 18:45 • Ansgarkirche 18:47 • Universität 18:50;18:21;-1
+S;11;Pillauer Straße 18:28;Fachhochschule 18:23 • Hermannstr. 18:26;18:22;-1
+S;11;Wik Kanal 19:12;Seefischmarkt 18:33 • Hbf 18:51 • Dreiecksplatz 18:59 • Ansgarkirche 19:01 • Elendsredder 19:08;18:28;-1
+S;11;Pillauer Straße 18:36;Fachhochschule 18:31 • Hermannstr. 18:34;18:30;-1
+F;F2;Reventloubrücke 18:51 -> F1 Bahnhof ab 19:19;Wellingdorf 18:39;18:33;-1
+S;11;Wik Kanal 19:20;Seefischmarkt 18:41 • Hbf 18:59 • Dreiecksplatz 19:07 • Ansgarkirche 19:09 • Elendsredder 19:16;18:36;-1
+S;60S;Botanischer Garten 19:10;Seefischmarkt 18:40 • Hbf 18:52 • Dreiecksplatz 19:00 • Ansgarkirche 19:02 • Universität 19:05;18:36;-1
+S;11;Pillauer Straße 18:43;Fachhochschule 18:38 • Hermannstr. 18:41;18:37;-1
+S;11;Wik Kanal 19:27;Seefischmarkt 18:48 • Hbf 19:06 • Dreiecksplatz 19:14 • Ansgarkirche 19:16 • Elendsredder 19:23;18:43;-1
+S;11;Pillauer Straße 18:51;Fachhochschule 18:46 • Hermannstr. 18:49;18:45;-1
+S;11;Wik Kanal 19:35;Seefischmarkt 18:56 • Hbf 19:14 • Dreiecksplatz 19:22 • Ansgarkirche 19:24 • Elendsredder 19:31;18:51;-1
+S;60S;Botanischer Garten 19:25;Seefischmarkt 18:55 • Hbf 19:07 • Dreiecksplatz 19:15 • Ansgarkirche 19:17 • Universität 19:20;18:51;-1
+S;11;Pillauer Straße 18:58;Fachhochschule 18:53 • Hermannstr. 18:56;18:52;-1
+S;11;Wik Kanal 19:42;Seefischmarkt 19:03 • Hbf 19:21 • Dreiecksplatz 19:29 • Ansgarkirche 19:31 • Elendsredder 19:38;18:58;-1
+S;11;Pillauer Straße 19:06;Fachhochschule 19:01 • Hermannstr. 19:04;19:00;-1
+F;F2;Reventloubrücke 19:21;Wellingdorf 19:09;19:03;-1
+S;11;Wik Kanal 19:50;Seefischmarkt 19:11 • Hbf 19:29 • Dreiecksplatz 19:37 • Ansgarkirche 19:39 • Elendsredder 19:46;19:06;-1
+S;60S;Botanischer Garten 19:40;Seefischmarkt 19:10 • Hbf 19:22 • Dreiecksplatz 19:30 • Ansgarkirche 19:32 • Universität 19:35;19:06;-1
+S;11;Pillauer Straße 19:13;Fachhochschule 19:08 • Hermannstr. 19:11;19:07;-1
+S;11;Pillauer Straße 19:21;Fachhochschule 19:16 • Hermannstr. 19:19;19:15;-1
+S;11;Wik Kanal 20:00;Seefischmarkt 19:21 • Hbf 19:39 • Dreiecksplatz 19:47 • Ansgarkirche 19:49 • Elendsredder 19:56;19:16;-1
+S;60S;Botanischer Garten 19:55;Seefischmarkt 19:25 • Hbf 19:37 • Dreiecksplatz 19:45 • Ansgarkirche 19:47 • Universität 19:50;19:21;-1
+S;11;Pillauer Straße 19:28;Fachhochschule 19:23 • Hermannstr. 19:26;19:22;-1
+S;11;Wik Kanal 20:10;Seefischmarkt 19:31 • Hbf 19:49 • Dreiecksplatz 19:57 • Ansgarkirche 19:59 • Elendsredder 20:06;19:26;-1
+S;11;Pillauer Straße 19:36;Fachhochschule 19:31 • Hermannstr. 19:34;19:30;-1
+S;11;Wik Kanal 20:20;Seefischmarkt 19:41 • Hbf 19:59 • Dreiecksplatz 20:07 • Ansgarkirche 20:09 • Elendsredder 20:16;19:36;-1
+S;60S;Botanischer Garten 20:10;Seefischmarkt 19:40 • Hbf 19:52 • Dreiecksplatz 20:00 • Ansgarkirche 20:02 • Universität 20:05;19:36;-1
+S;11;Pillauer Straße 19:43;Fachhochschule 19:38 • Hermannstr. 19:41;19:37;-1
+S;11;Pillauer Straße 19:51;Fachhochschule 19:46 • Hermannstr. 19:49;19:45;-1
+S;11;Wik Kanal 20:30;Seefischmarkt 19:51 • Hbf 20:09 • Dreiecksplatz 20:17 • Ansgarkirche 20:19 • Elendsredder 20:26;19:46;-1
+F;F2;Reventloubrücke 20:06;Wellingdorf 19:54;19:48;-1
+S;60S;Botanischer Garten 20:25;Seefischmarkt 19:55 • Hbf 20:07 • Dreiecksplatz 20:15 • Ansgarkirche 20:17 • Universität 20:20;19:51;-1
+S;11;Pillauer Straße 20:01;Fachhochschule 19:56 • Hermannstr. 19:59;19:55;-1
+S;60S;Hauptbahnhof 20:20;Seefischmarkt 20:08;20:04;-1
+S;11;Pillauer Straße 20:11;Fachhochschule 20:06 • Hermannstr. 20:09;20:05;-1
+S;11;Wik Kanal 20:55;Seefischmarkt 20:14 • Hbf 20:30 • Dreiecksplatz 20:43 • Ansgarkirche 20:45 • Elendsredder 20:52;20:09;-1
+S;11;Pillauer Straße 20:21;Fachhochschule 20:16 • Hermannstr. 20:19;20:15;-1
+F;F2;Reventloubrücke 20:36;Wellingdorf 20:24;20:18;-1
+S;11;Pillauer Straße 20:31;Fachhochschule 20:26 • Hermannstr. 20:29;20:25;-1
+S;11;Pillauer Straße 20:41;Fachhochschule 20:36 • Hermannstr. 20:39;20:35;-1
+S;11;Wik Kanal 21:25;Seefischmarkt 20:44 • Hbf 21:00 • Dreiecksplatz 21:13 • Ansgarkirche 21:15 • Elendsredder 21:22;20:39;-1
+F;F2;Reventloubrücke 21:06 -> F1 Bahnhof ab 21:29;Wellingdorf 20:54;20:48;-1
+S;11;Pillauer Straße 21:01;Fachhochschule 20:56 • Hermannstr. 20:59;20:55;-1
+S;11;Wik Kanal 21:55;Seefischmarkt 21:14 • Hbf 21:30 • Dreiecksplatz 21:43 • Ansgarkirche 21:45 • Elendsredder 21:52;21:09;-1
+F;F2;Reventloubrücke 21:36;Wellingdorf 21:24;21:18;-1
+S;11;Pillauer Straße 21:31;Fachhochschule 21:26 • Hermannstr. 21:29;21:25;-1
+S;11;Wik Kanal 22:25;Seefischmarkt 21:44 • Hbf 22:00 • Dreiecksplatz 22:13 • Ansgarkirche 22:15 • Elendsredder 22:22;21:39;-1
+F;F2;Reventloubrücke 22:06;Wellingdorf 21:54;21:48;-1
+S;11;Pillauer Straße 22:01;Fachhochschule 21:56 • Hermannstr. 21:59;21:55;-1
+S;11;Wik Kanal 22:55;Seefischmarkt 22:14 • Hbf 22:30 • Dreiecksplatz 22:43 • Ansgarkirche 22:45 • Elendsredder 22:52;22:09;-1
+S;11;Pillauer Straße 22:31;Fachhochschule 22:26 • Hermannstr. 22:29;22:25;-1
+S;11;Wik Kanal 23:25;Seefischmarkt 22:44 • Hbf 23:00 • Dreiecksplatz 23:13 • Ansgarkirche 23:15 • Elendsredder 23:22;22:39;-1
+S;11;Pillauer Straße 23:01;Fachhochschule 22:56 • Hermannstr. 22:59;22:55;-1
+S;11;Wik Kanal 23:55;Seefischmarkt 23:14 • Hbf 23:30 • Dreiecksplatz 23:43 • Ansgarkirche 23:45 • Elendsredder 23:52;23:09;-1
+S;11;Pillauer Straße 23:31;Fachhochschule 23:26 • Hermannstr. 23:29;23:25;-1
+S;11;Wik Kanal 00:25;Seefischmarkt 23:44 • Hbf 00:00 • Dreiecksplatz 00:13 • Ansgarkirche 00:15 • Elendsredder 00:22;23:39;-1
+S;11;Hauptbahnhof 00:15;Seefischmarkt 23:59;23:54;-1
+S;11;Pillauer Straße 00:01;Fachhochschule 23:56 • Hermannstr. 23:59;23:55;-1
+S;11;Pillauer Straße 00:31;Fachhochschule 00:26 • Hermannstr. 00:29;00:25;-1
+S;11N;Pillauer Straße 00:43;Fachhochschule 00:38 • Hermannstr. 00:41;00:37;-1
+S;11N;Wik Kanal 01:38;Seefischmarkt 01:02 • Hbf 01:15 • Dreiecksplatz 01:27 • Ansgarkirche 01:29 • Elendsredder 01:35;00:59;-1
+S;11N;Pillauer Straße 01:43;Fachhochschule 01:38 • Hermannstr. 01:41;01:37;-1
+S;11N;Wik Kanal 02:38;Seefischmarkt 02:02 • Hbf 02:15 • Dreiecksplatz 02:27 • Ansgarkirche 02:29 • Elendsredder 02:35;01:59;-1
+S;11N;Pillauer Straße 02:43;Fachhochschule 02:38 • Hermannstr. 02:41;02:37;-1
+S;11N;Wik Kanal 03:38;Seefischmarkt 03:02 • Hbf 03:15 • Dreiecksplatz 03:27 • Ansgarkirche 03:29 • Elendsredder 03:35;02:59;-1
+S;11N;Pillauer Straße 03:43;Fachhochschule 03:38 • Hermannstr. 03:41;03:37;-1
+S;11N;Hauptbahnhof 04:15;Seefischmarkt 04:02;03:59;-1
+S;11;Pillauer Straße 04:46;Fachhochschule 04:41 • Hermannstr. 04:44;04:40;-1
+S;11;Wik Kanal 05:37;Seefischmarkt 05:01 • Hbf 05:17 • Dreiecksplatz 05:25 • Ansgarkirche 05:27 • Elendsredder 05:34;04:56;-1
+F;F2;Reventloubrücke 05:21;Wellingdorf 05:09;05:03;-1
+S;11;Wik Kanal 05:54;Seefischmarkt 05:18 • Hbf 05:34 • Dreiecksplatz 05:42 • Ansgarkirche 05:44 • Elendsredder 05:51;05:13;-1
+S;11;Wik Kanal 06:09;Seefischmarkt 05:33 • Hbf 05:49 • Dreiecksplatz 05:57 • Ansgarkirche 05:59 • Elendsredder 06:06;05:28;-1
+F;F2;Reventloubrücke 05:51;Wellingdorf 05:39;05:33;-1
+S;11;Pillauer Straße 05:41;Fachhochschule 05:36 • Hermannstr. 05:39;05:35;-1
+S;11;Wik Kanal 06:24;Seefischmarkt 05:48 • Hbf 06:04 • Dreiecksplatz 06:12 • Ansgarkirche 06:14 • Elendsredder 06:21;05:43;-1
+S;11;Pillauer Straße 06:01;Fachhochschule 05:56 • Hermannstr. 05:59;05:55;-1
+S;11;Wik Kanal 06:40;Seefischmarkt 06:01 • Hbf 06:19 • Dreiecksplatz 06:27 • Ansgarkirche 06:29 • Elendsredder 06:36;05:56;-1
+F;F2;Reventloubrücke 06:21;Wellingdorf 06:09;06:03;-1
+S;11;Wik Kanal 06:50;Seefischmarkt 06:11 • Hbf 06:29 • Dreiecksplatz 06:37 • Ansgarkirche 06:39 • Elendsredder 06:46;06:06;-1
+S;11;Pillauer Straße 06:16;Fachhochschule 06:11 • Hermannstr. 06:14;06:10;-1
+S;11;Wik Kanal 06:57;Seefischmarkt 06:18 • Hbf 06:36 • Dreiecksplatz 06:44 • Ansgarkirche 06:46 • Elendsredder 06:53;06:13;-1
+S;11;Pillauer Straße 06:26;Fachhochschule 06:21 • Hermannstr. 06:24;06:20;-1
+S;11;Wik Kanal 07:05;Seefischmarkt 06:26 • Hbf 06:44 • Dreiecksplatz 06:52 • Ansgarkirche 06:54 • Elendsredder 07:01;06:21;-1
+S;11;Wik Kanal 07:12;Seefischmarkt 06:33 • Hbf 06:51 • Dreiecksplatz 06:59 • Ansgarkirche 07:01 • Elendsredder 07:08;06:28;-1
+F;F2;Reventloubrücke 06:51 -> F1 Bahnhof ab 07:20;Wellingdorf 06:39;06:33;-1
+S;11;Pillauer Straße 06:41;Fachhochschule 06:36 • Hermannstr. 06:39;06:35;-1
+S;11;Wik Kanal 07:20;Seefischmarkt 06:41 • Hbf 06:59 • Dreiecksplatz 07:07 • Ansgarkirche 07:09 • Elendsredder 07:16;06:36;-1
+S;11;Wik Kanal 07:27;Seefischmarkt 06:48 • Hbf 07:06 • Dreiecksplatz 07:14 • Ansgarkirche 07:16 • Elendsredder 07:23;06:43;-1
+S;11;Pillauer Straße 06:51;Fachhochschule 06:46 • Hermannstr. 06:49;06:45;-1
+S;11;Wik Kanal 07:35;Seefischmarkt 06:56 • Hbf 07:14 • Dreiecksplatz 07:22 • Ansgarkirche 07:24 • Elendsredder 07:31;06:51;-1
+S;11;Pillauer Straße 06:58;Fachhochschule 06:53 • Hermannstr. 06:56;06:52;-1
+S;11;Wik Kanal 07:42;Seefischmarkt 07:03 • Hbf 07:21 • Dreiecksplatz 07:29 • Ansgarkirche 07:31 • Elendsredder 07:38;06:58;-1
+S;11;Pillauer Straße 07:06;Fachhochschule 07:01 • Hermannstr. 07:04;07:00;-1
+F;F2;Reventloubrücke 07:21;Wellingdorf 07:09;07:03;-1
+S;11;Wik Kanal 07:50;Seefischmarkt 07:11 • Hbf 07:29 • Dreiecksplatz 07:37 • Ansgarkirche 07:39 • Elendsredder 07:46;07:06;-1
+S;11;Pillauer Straße 07:13;Fachhochschule 07:08 • Hermannstr. 07:11;07:07;-1
+S;11;Wik Kanal 07:57;Seefischmarkt 07:18 • Hbf 07:36 • Dreiecksplatz 07:44 • Ansgarkirche 07:46 • Elendsredder 07:53;07:13;-1
+S;11;Pillauer Straße 07:21;Fachhochschule 07:16 • Hermannstr. 07:19;07:15;-1
+F;F2;Reventloubrücke 07:36;Wellingdorf 07:24;07:18;-1
+S;11;Wik Kanal 08:05;Seefischmarkt 07:26 • Hbf 07:44 • Dreiecksplatz 07:52 • Ansgarkirche 07:54 • Elendsredder 08:01;07:21;-1
+S;60S;Botanischer Garten 07:55;Seefischmarkt 07:25 • Hbf 07:37 • Dreiecksplatz 07:45 • Ansgarkirche 07:47 • Universität 07:50;07:21;-1
+S;11;Pillauer Straße 07:28;Fachhochschule 07:23 • Hermannstr. 07:26;07:22;-1
+S;14;Geschwister-Scholl-Straße 07:31; ;07:22;-1
+S;11;Wik Kanal 08:12;Seefischmarkt 07:33 • Hbf 07:51 • Dreiecksplatz 07:59 • Ansgarkirche 08:01 • Elendsredder 08:08;07:28;-1
+S;11;Pillauer Straße 07:36;Fachhochschule 07:31 • Hermannstr. 07:34;07:30;-1
+F;F2;Reventloubrücke 07:51;Wellingdorf 07:39;07:33;-1
+S;11;Wik Kanal 08:20;Seefischmarkt 07:41 • Hbf 07:59 • Dreiecksplatz 08:07 • Ansgarkirche 08:09 • Elendsredder 08:16;07:36;-1
+S;60S;Botanischer Garten 08:10;Seefischmarkt 07:40 • Hbf 07:52 • Dreiecksplatz 08:00 • Ansgarkirche 08:02 • Universität 08:05;07:36;-1
+S;11;Pillauer Straße 07:43;Fachhochschule 07:38 • Hermannstr. 07:41;07:37;-1
+S;11;Wik Kanal 08:27;Seefischmarkt 07:48 • Hbf 08:06 • Dreiecksplatz 08:14 • Ansgarkirche 08:16 • Elendsredder 08:23;07:43;-1
+S;11;Pillauer Straße 07:51;Fachhochschule 07:46 • Hermannstr. 07:49;07:45;-1
+F;F2;Reventloubrücke 08:06 -> F1 Bahnhof ab 08:25;Wellingdorf 07:54;07:48;-1
+S;11;Wik Kanal 08:35;Seefischmarkt 07:56 • Hbf 08:14 • Dreiecksplatz 08:22 • Ansgarkirche 08:24 • Elendsredder 08:31;07:51;-1
+S;60S;Botanischer Garten 08:25;Seefischmarkt 07:55 • Hbf 08:07 • Dreiecksplatz 08:15 • Ansgarkirche 08:17 • Universität 08:20;07:51;-1
+S;11;Pillauer Straße 07:58;Fachhochschule 07:53 • Hermannstr. 07:56;07:52;-1
+S;11;Wik Kanal 08:42;Seefischmarkt 08:03 • Hbf 08:21 • Dreiecksplatz 08:29 • Ansgarkirche 08:31 • Elendsredder 08:38;07:58;-1
+S;11;Pillauer Straße 08:06;Fachhochschule 08:01 • Hermannstr. 08:04;08:00;-1
+F;F2;Reventloubrücke 08:21 -> F1 Bahnhof ab 08:25;Wellingdorf 08:09;08:03;-1
+S;11;Wik Kanal 08:50;Seefischmarkt 08:11 • Hbf 08:29 • Dreiecksplatz 08:37 • Ansgarkirche 08:39 • Elendsredder 08:46;08:06;-1
+S;60S;Botanischer Garten 08:40;Seefischmarkt 08:10 • Hbf 08:22 • Dreiecksplatz 08:30 • Ansgarkirche 08:32 • Universität 08:35;08:06;-1
+S;11;Pillauer Straße 08:13;Fachhochschule 08:08 • Hermannstr. 08:11;08:07;-1
+S;11;Wik Kanal 08:57;Seefischmarkt 08:18 • Hbf 08:36 • Dreiecksplatz 08:44 • Ansgarkirche 08:46 • Elendsredder 08:53;08:13;-1
+S;11;Pillauer Straße 08:21;Fachhochschule 08:16 • Hermannstr. 08:19;08:15;-1
+F;F2;Reventloubrücke 08:36 -> F1 Laboe ab 08:55;Wellingdorf 08:24;08:18;-1
+S;11;Wik Kanal 09:05;Seefischmarkt 08:26 • Hbf 08:44 • Dreiecksplatz 08:52 • Ansgarkirche 08:54 • Elendsredder 09:01;08:21;-1
+S;60S;Botanischer Garten 08:55;Seefischmarkt 08:25 • Hbf 08:37 • Dreiecksplatz 08:45 • Ansgarkirche 08:47 • Universität 08:50;08:21;-1
+S;11;Pillauer Straße 08:28;Fachhochschule 08:23 • Hermannstr. 08:26;08:22;-1
+S;11;Wik Kanal 09:12;Seefischmarkt 08:33 • Hbf 08:51 • Dreiecksplatz 08:59 • Ansgarkirche 09:01 • Elendsredder 09:08;08:28;-1
+S;11;Pillauer Straße 08:36;Fachhochschule 08:31 • Hermannstr. 08:34;08:30;-1
+F;F2;Reventloubrücke 08:51 -> F1 Laboe ab 08:55;Wellingdorf 08:39;08:33;-1
+S;11;Wik Kanal 09:20;Seefischmarkt 08:41 • Hbf 08:59 • Dreiecksplatz 09:07 • Ansgarkirche 09:09 • Elendsredder 09:16;08:36;-1
+S;60S;Botanischer Garten 09:10;Seefischmarkt 08:40 • Hbf 08:52 • Dreiecksplatz 09:00 • Ansgarkirche 09:02 • Universität 09:05;08:36;-1
+S;11;Pillauer Straße 08:43;Fachhochschule 08:38 • Hermannstr. 08:41;08:37;-1
+S;11;Wik Kanal 09:27;Seefischmarkt 08:48 • Hbf 09:06 • Dreiecksplatz 09:14 • Ansgarkirche 09:16 • Elendsredder 09:23;08:43;-1
+S;11;Pillauer Straße 08:51;Fachhochschule 08:46 • Hermannstr. 08:49;08:45;-1
+F;F2;Reventloubrücke 09:06;Wellingdorf 08:54;08:48;-1
+S;11;Wik Kanal 09:35;Seefischmarkt 08:56 • Hbf 09:14 • Dreiecksplatz 09:22 • Ansgarkirche 09:24 • Elendsredder 09:31;08:51;-1
+S;60S;Botanischer Garten 09:25;Seefischmarkt 08:55 • Hbf 09:07 • Dreiecksplatz 09:15 • Ansgarkirche 09:17 • Universität 09:20;08:51;-1
+S;11;Pillauer Straße 08:58;Fachhochschule 08:53 • Hermannstr. 08:56;08:52;-1

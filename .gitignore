@@ -1,0 +1,17 @@
+/caylee-*
+/departure-monitor
+/logo-monitor
+/teletext/teletext
+/*.*
+cache
+monitor.json
+101.tele
+102.tele
+200.tele
+300.tele
+301.tele
+302.tele
+303.tele
+*.html
+*~
+*.swp
